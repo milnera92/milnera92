@@ -1,6 +1,6 @@
 ### Hi there, I'm Andy 👋
 
-
+Graduate of Concordia University's Full Stack Web Development program with experience in the MERN stack (MongoDB, Express.js, React, Node.js) and a strong understanding of the web development process. Proven ability to learn quickly and adapt to new technologies. Strong background in tech support, software development, and team management.
 
 - 🔭 I’m currently working on Nailing my Portfolio 
 - 🌱 I’m currently learning Typesctipt / Java and a bit of C#/.Net
